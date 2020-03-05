@@ -9,7 +9,7 @@ export default class TodoInput extends Component {
               <div className="input-group">
                 <div className="input-group-prepend">
                   <div className="input-group-text bg-primary text-whitw">
-                    <i className="fa fa-book"></i>
+                    <i className="fas fa-book"></i>
                   </div>
                 </div>
                 <input 
